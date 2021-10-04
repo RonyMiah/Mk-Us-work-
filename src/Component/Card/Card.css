@@ -1,0 +1,24 @@
+.Card{
+    width: 90%;
+   
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(126, 148, 148);
+    margin: 10px;
+    
+}
+.Card img{
+    width: 100%;
+
+
+}
+.Card button{
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: orange;
+    font-size: 18px;
+    color: #fff;
+}

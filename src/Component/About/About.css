@@ -1,0 +1,24 @@
+.aboutUs{
+    width: 90%;
+    margin: auto;
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+    padding: 10px;
+    
+     
+}
+.card img{
+    width: 100%;
+}
+.card-style{
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(89, 103, 161);
+    margin: 10px;
+    
+}

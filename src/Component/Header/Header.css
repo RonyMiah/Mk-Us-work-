@@ -1,0 +1,37 @@
+
+
+.logoImg{
+    width: 10%;
+    height: 10%;
+}
+
+.MainHeader{
+   height: 580px;
+}
+
+.Container{
+    width: 90%;
+    margin: auto;
+   padding-top: 30px;
+   margin-top: 0px;
+
+}
+
+.Main-banner{
+    height: 600px;
+}
+
+.banner-haf h1{
+    font-size: 60px;
+    color: orchid;
+    font-weight: bold;
+}
+
+.banner{
+    background-image: url("../../Image/femail.png");
+    background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-position: cover;
+}
+
